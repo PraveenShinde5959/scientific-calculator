@@ -1,0 +1,6 @@
+{
+  "name": "Scientific Calculator",
+  "description": "A modern, premium scientific calculator app with glassmorphic UI, floating glowing particles, calculation history, and full mathematical functions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
